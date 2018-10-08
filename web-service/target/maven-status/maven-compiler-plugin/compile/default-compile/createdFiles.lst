@@ -1,0 +1,3 @@
+com\un32\mapper\PatientInfoMapper.class
+com\un32\entity\webservice\impl\PatientServiceImpl.class
+com\un32\entity\webservice\PatientService.class

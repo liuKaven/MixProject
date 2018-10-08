@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mixProject.iml" filepath="$PROJECT_DIR$/mixProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-app/web-app.iml" filepath="$PROJECT_DIR$/web-app/web-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-entity/web-entity.iml" filepath="$PROJECT_DIR$/web-entity/web-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-service/web-service.iml" filepath="$PROJECT_DIR$/web-service/web-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-util/web-util.iml" filepath="$PROJECT_DIR$/web-util/web-util.iml" />
+    </modules>
+  </component>
+</project>
